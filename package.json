@@ -6,7 +6,8 @@
   "jsnext:main": "dist/final-form-focus.es.js",
   "module": "dist/final-form-focus.es.js",
   "files": [
-    "dist"
+    "dist",
+    "index.d.ts"
   ],
   "scripts": {
     "start": "nps",
